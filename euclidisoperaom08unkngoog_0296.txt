@@ -1,0 +1,46 @@
+nnnnnuronun 11111111 vn. 269
+
+permutatim A unitas numerum Β et Γ numerum A
+aequaliter metitur [prop. XV]. ergo Γ numerum A
+metitur3 quod erat demonstrandum.
+
+XXXIX.
+
+Numerum inuenire minimum, qui datas partes ha-
+
+beat.
+
+A B Γ Sint datae partes A, Β, Γ.
+1-1 ¹—1 1--1 oportet igitur numerum inuenire
+μζ, ,,,,,,Ε,-,, minimum, qui partes A, Β, Γ
+1-1Ζ Η habeat.
+¹ ¹ A partibus enim A, Β, Γ de-
+
+1-——···¹⁰ nominati sint numeri A, E, Ζ,
+
+et sumatur²) numerus H, quem A, E,Z minimum ‚me-
+tiantur. H igitur partes habet a numeris A, E,Z
+denominatas [prop. XXXVII]¹ uerum a A, E, Z de·
+
+nominatae partes sunt A, Β, Γ. itaque H partes A,-
+B, Γ habet iam dieo, eum etiam minimum esse.
+namsi minue, erit numerus aliquis numero H minor,
+qui partes A, Β, Γ habeat sit Θ. quoniam Θ par·
+tes A, Β, Γ habet, numerum Θ metientur numeri
+a partibus A, B, Γ denominati [prop. XXXVIII].
+uerum a partibus A, Β, Γ denominati sunt numeri
+A,-E, Z. itaque Θ numerum numeri A, E, Ζ metiun- ’
+tur. et minor eet numero H ς quod fieri non potest.
+ergo non erit numerus numero H minor, qui partes
+A, Β, Γ habeat3 quod erat demonstrandum.
+
+1) Juque Euclides hio quoque prop. 36 de tribue tantum
+numeris demonstret-am tacite ad quamlibet numerorum multitu·
+
+dinem transtulit, sicuti supra in prop. 33 eodem modo prop3
+tacite dilatauit (u. p. 255 not).
+
+—-——-—...
+
+ 
+
